@@ -75,11 +75,11 @@ Standard SARIMA models trained on data that includes the COVID period tend to ab
 ## Repository structure
 
 ```
-├── sarimax\\\\\\\_air\\\\\\\_traffic.ipynb   # Full analysis notebook
-├── air\\\\\\\_traffic.csv
-│   └── us\\\\\\\_airline\\\\\\\_traffic\\\\\\\_bts.csv    # BTS dataset (source: Kaggle)
+├── sarimax_air_traffic.ipynb   # Full analysis notebook
+├── air_traffic.csv
+│   └── us_airline_traffic_bts.csv    # BTS dataset (source: Kaggle)
 ├── report/
-│   └── SARIMAX\\\\\\\\\\\\\\\_Air\\\\\\\\\\\\\\\_Traffic\\\\\\\\\\\\\\\_Final.docx
+│   └── SARIMAX_Air_Traffic_Final.docx
 └── README.md
 ```
 
@@ -91,7 +91,7 @@ Standard SARIMA models trained on data that includes the COVID period tend to ab
 git clone https://github.com/sohom21-bit/us-air-traffic-sarimax-forecasting
 cd us-air-traffic-sarimax-forecasting
 pip install pandas numpy matplotlib seaborn statsmodels scikit-learn
-jupyter notebook sarimax\\\\\\\_air\\\\\\\_traffic.ipynb
+jupyter notebook sarimax_air_traffic.ipynb
 ```
 
 \---
