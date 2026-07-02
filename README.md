@@ -76,8 +76,7 @@ Standard SARIMA models trained on data that includes the COVID period tend to ab
 
 ```
 ├── sarimax_air_traffic.ipynb   # Full analysis notebook
-├── air_traffic.csv
-│   └── us_airline_traffic_bts.csv    # BTS dataset (source: Kaggle)
+├── air_traffic.csv   # BTS dataset (source: Kaggle)
 ├── report/
 │   └── SARIMAX_Air_Traffic_Final.docx
 └── README.md
