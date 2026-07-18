@@ -106,6 +106,7 @@ jupyter notebook sarimax_air_traffic.ipynb
 **Sohom Halder**
 B.Sc. Statistics Honours, University of Calcutta (2025)
 Supervised by Prof. Parthasarathi Bera, Department of Statistics, University of Calcutta
+[LinkedIn](https://www.linkedin.com/in/sohom-halder-6200a8406/) · [GitHub](https://github.com/sohom21-bit) · [Email](haldersohom21@gmail.com)
 
 \---
 
